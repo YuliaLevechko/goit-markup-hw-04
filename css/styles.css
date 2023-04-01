@@ -88,6 +88,7 @@ background-color: var(--white-bgc-header-teamcard-color);
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: var(--iris-primary-brand-links-color);
+        margin-right: 76px;
 }
 
 .header-logo-studio{
@@ -98,7 +99,6 @@ background-color: var(--white-bgc-header-teamcard-color);
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--navy-blue-dark-shadows-headings-color);
-    margin-right: 76px;
 }
 
 .header-list {
@@ -148,6 +148,8 @@ background-color: var(--white-bgc-header-teamcard-color);
         background-size: cover;
         padding-top: 188px;
         padding-bottom: 188px;
+        max-width: 1440px;
+        margin: 0 auto;
 }
 
 .hero-title {
